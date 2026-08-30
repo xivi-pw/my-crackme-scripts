@@ -1,4 +1,4 @@
-# my-crackme-scripts
+# My crackme solvings
 
 **In keygens folder you can find my python scripts for solving tasks**
 
