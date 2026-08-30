@@ -1,3 +1,5 @@
+# https://crackmes.one/crackme/6a768ab608712c1a17cbacdd
+
 def generate(username):
     password = ""
     for char in username:
