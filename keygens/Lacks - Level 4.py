@@ -1,3 +1,5 @@
+# https://crackmes.one/crackme/6a512a5e71ee08cad748dcb2
+
 import struct
 
 def checksum(username):
