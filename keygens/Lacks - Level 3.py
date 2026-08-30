@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# https://crackmes.one/crackme/6a512a442c3088f968e1341b
+
+
 def compute_serial(username):
     iVar18 = 0
     
